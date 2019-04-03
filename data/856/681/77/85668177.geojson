@@ -1,0 +1,248 @@
+{
+  "id": 85668177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003221,
+    "geom:area_square_m":38072610.064365,
+    "geom:bbox":"-61.7333917266,17.0278181014,-61.6675919262,17.1005313169",
+    "geom:latitude":17.063832,
+    "geom:longitude":-61.70158,
+    "gn:population":3599,
+    "iso:country":"AG",
+    "label:eng_x_preferred_longname":[
+        "Saint Philip Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":17.059519,
+    "lbl:longitude":-61.70816,
+    "mps:latitude":17.059519,
+    "mps:longitude":-61.70816,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Parish of Saint Philip"
+    ],
+    "name:deu_x_preferred":[
+        "Parish of Saint Phillip"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a6\u03af\u03bb\u03b9\u03c0\u03c0\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:eng_x_variant":[
+        "St Philip",
+        "St. Philip"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Philip"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u092b\u093f\u0932\u093f\u092a \u092a\u0932\u094d\u0932\u0940"
+    ],
+    "name:ind_x_preferred":[
+        "Paroki Saint Philip"
+    ],
+    "name:ita_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uc778\ud2b8\ud544\ub9bd \uad50\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Sentfilipa pagasts"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160v. Pilypo parapija"
+    ],
+    "name:msa_x_preferred":[
+        "Paroki Saint Philip"
+    ],
+    "name:nld_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:nor_x_preferred":[
+        "Saint Philip prestegjeld"
+    ],
+    "name:pol_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:por_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:ron_x_preferred":[
+        "Parohia Saint Philip"
+    ],
+    "name:spa_x_preferred":[
+        "Parroquia de Saint Philip"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u043d\u0442 \u0424\u0438\u043b\u0438\u043f"
+    ],
+    "name:swe_x_preferred":[
+        "Parish of Saint Philip"
+    ],
+    "name:tgl_x_preferred":[
+        "Parokya ng Saint Philip"
+    ],
+    "name:unk_x_variant":[
+        "Parish of Saint Philip"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u0641\u0644\u067e \u067e\u06cc\u0631\u0634\u060c \u0627\u06cc\u0646\u0679\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u0688\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u83f2\u5229\u666e\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"ATG",
+    "ne:adm0_label":"6",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"ATG-5095",
+    "ne:adm1_code":"ATG-5095",
+    "ne:admin":"Antigua and Barbuda",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"AG.PH",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5095",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"AC08",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Antigua",
+    "ne:gn_a1_code":"AG.08",
+    "ne:gn_id":"3576015",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Parish of Saint Philip",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"AC08",
+    "ne:gns_id":"-1323521",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Saint Philip",
+    "ne:gns_region":"",
+    "ne:gu_a3":"ACA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"AG-08",
+    "ne:iso_a2":"AG",
+    "ne:labelrank":"20",
+    "ne:latitude":"17.06010000000",
+    "ne:longitude":"-61.70210000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":5,
+    "ne:name":"Saint Philip",
+    "ne:name_alt":"",
+    "ne:name_len":12,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"ATG",
+    "ne:sub_code":"",
+    "ne:type":"Parish",
+    "ne:type_en":"Parish",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Saint_Philip_Parish_(Antigua_and_Barbuda)",
+    "ne:woe_id":2344547,
+    "ne:woe_label":"Saint Philip, AG, Antigua and Barbuda",
+    "ne:woe_name":"Saint Philip",
+    "qs:a0":"Antigua and Barbuda",
+    "qs:a0_lc":"AG",
+    "qs:a1":"Saint Philip",
+    "qs:a1_lc":"ATG-5095",
+    "qs:adm0":"Antigua and Barbuda",
+    "qs:adm0_a3":"ATG",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Parish",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-05-28",
+    "statoids:area_km":"44",
+    "statoids:area_mi":"17",
+    "statoids:as_of_date":"2011-05-28",
+    "statoids:capital":"Carlisle",
+    "statoids:country":"AG",
+    "statoids:gec":"AC08",
+    "statoids:hasc":"AG.PH",
+    "statoids:iso":"08",
+    "statoids:name":"Saint Philip",
+    "statoids:population":"3125",
+    "statoids:timezone":"-4",
+    "statoids:type":"parish",
+    "unlc:subdivision":"AG-08",
+    "wd:wordcount":56,
+    "wof:belongsto":[
+        102191575,
+        85632529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AC08",
+        "gn:id":3576015,
+        "gp:id":2344547,
+        "hasc:id":"AG.PH",
+        "iso:id":"AG-08",
+        "qs:id":898606,
+        "unlc:id":"AG-08",
+        "wd:id":"Q1996895",
+        "wk:page":"Saint Philip Parish, Antigua and Barbuda"
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"52babbee57a740b9920223013fc1190c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "region_id":85668177
+        }
+    ],
+    "wof:id":85668177,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550294,
+    "wof:name":"Saint Philip",
+    "wof:parent_id":85632529,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":3125,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:shortcode":"PH",
+    "wof:subdivision":"AG-08",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.7333917266468,
+    17.02781810142432,
+    -61.66759192622635,
+    17.10053131686681
+],
+  "geometry": {"coordinates":[[[-61.72622636565421,17.03847890867473],[-61.7333917266468,17.06428496737738],[-61.72828953543365,17.08367329218873],[-61.71483313703959,17.09308502835142],[-61.70164954259229,17.09345123948316],[-61.68809973881184,17.10053131686681],[-61.68065345029646,17.10053131686681],[-61.67552649625077,17.09560781554831],[-61.6721085274865,17.09064362260517],[-61.66759192622635,17.07941315329441],[-61.67438717392889,17.07990143390413],[-61.68814042863784,17.07892487268475],[-61.69493567634038,17.07941315329441],[-61.68565833216627,17.06826406543433],[-61.67707271953032,17.06293366135941],[-61.67218990803781,17.05756256745855],[-61.67442786375489,17.04588450736418],[-61.68569902289153,17.02855052368778],[-61.6970108709549,17.02781810142432],[-61.70995032464771,17.03416575744382],[-61.72622636565421,17.03847890867473]]],"type":"Polygon"}
+}

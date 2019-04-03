@@ -1,0 +1,71 @@
+{
+  "id": 421180085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-61.8429845,17.016655,-61.8429845,17.016655",
+    "geom:latitude":17.016655,
+    "geom:longitude":-61.842985,
+    "iso:country":"AG",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Cades Bay",
+    "qs:name_adm0":"Antigua and Barbuda",
+    "qs:name_adm1":"Saint Mary",
+    "qs:photos":464,
+    "qs:photos_1k":94,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":464,
+    "qs:photos_sr":7,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":361811,
+    "qs:woe_adm0":23424737,
+    "qs:woe_id":56139,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632529,
+        85668187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56139,
+        "qs:id":361811
+    },
+    "wof:country":"AG",
+    "wof:created":1459009243,
+    "wof:geomhash":"af9620364e6b9af17eb71c0599743f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":421180085,
+            "region_id":85668187
+        }
+    ],
+    "wof:id":421180085,
+    "wof:lastmodified":1466635850,
+    "wof:name":"Cades Bay",
+    "wof:parent_id":85668187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.8429845,
+    17.016655,
+    -61.8429845,
+    17.016655
+],
+  "geometry": {"coordinates":[-61.8429845,17.016655],"type":"Point"}
+}

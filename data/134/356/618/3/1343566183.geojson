@@ -1,0 +1,65 @@
+{
+  "id": 1343566183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.83586,17.02527,-61.83586,17.02527",
+    "geom:latitude":17.02527,
+    "geom:longitude":-61.83586,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Claremont",
+    "gn:country_code":"AG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3576323,
+    "gn:latitude":17.02527,
+    "gn:longitude":-61.83586,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Claremont",
+    "gn:population":0,
+    "gn:timezone":"America/Antigua",
+    "iso:country":"AG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632529,
+        85668187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576323
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"0d5c592136ee99b640fd507690816bc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":1343566183,
+            "region_id":85668187
+        }
+    ],
+    "wof:id":1343566183,
+    "wof:lastmodified":1537087956,
+    "wof:name":"Claremont",
+    "wof:parent_id":85668187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.83586,
+    17.02527000000001,
+    -61.83586,
+    17.02527000000001
+],
+  "geometry": {"coordinates":[-61.83586,17.02527000000001],"type":"Point"}
+}

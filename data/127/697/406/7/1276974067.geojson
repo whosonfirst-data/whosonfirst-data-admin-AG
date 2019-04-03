@@ -1,0 +1,65 @@
+{
+  "id": 1276974067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.73689,17.09376,-61.73689,17.09376",
+    "geom:latitude":17.09376,
+    "geom:longitude":-61.73689,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mercers Creek",
+    "gn:country_code":"AG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3576116,
+    "gn:latitude":17.09376,
+    "gn:longitude":-61.73689,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Mercers Creek",
+    "gn:population":0,
+    "gn:timezone":"America/Antigua",
+    "iso:country":"AG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632529,
+        85668173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576116
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"f3d5d7298a2efc4a141023dada590696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":1276974067,
+            "region_id":85668173
+        }
+    ],
+    "wof:id":1276974067,
+    "wof:lastmodified":1536915491,
+    "wof:name":"Mercers Creek",
+    "wof:parent_id":85668173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.73689,
+    17.09376,
+    -61.73689,
+    17.09376
+],
+  "geometry": {"coordinates":[-61.73689,17.09376],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1242880355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.8,17.13333,-61.8,17.13333",
+    "geom:latitude":17.13333,
+    "geom:longitude":-61.8,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Cedar Valley Mill",
+    "gn:country_code":"AG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3576335,
+    "gn:latitude":17.13333,
+    "gn:longitude":-61.8,
+    "gn:modification_date":"1993-12-21",
+    "gn:name":"Cedar Valley Mill",
+    "gn:population":0,
+    "gn:timezone":"America/Antigua",
+    "iso:country":"AG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632529,
+        85668171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576335
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"dac86ac6650117824ad89b39a8a88537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":1242880355,
+            "region_id":85668171
+        }
+    ],
+    "wof:id":1242880355,
+    "wof:lastmodified":1536625676,
+    "wof:name":"Cedar Valley Mill",
+    "wof:parent_id":85668171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.8,
+    17.13332999999999,
+    -61.8,
+    17.13332999999999
+],
+  "geometry": {"coordinates":[-61.8,17.13332999999999],"type":"Point"}
+}

@@ -1,0 +1,100 @@
+{
+  "id": 890430805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.87466,17.06565,-61.87466,17.06565",
+    "geom:latitude":17.06565,
+    "geom:longitude":-61.87466,
+    "gn:country":"AG",
+    "gn:fcode":"PPLA",
+    "gn:pop":1657,
+    "iso:country":"AG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Bolans"
+    ],
+    "name:eng_x_preferred":[
+        "Bolands"
+    ],
+    "name:fra_x_preferred":[
+        "Bolands"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03cc\u03bb\u03b1\u03bd\u03c4\u03c2"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05dc\u05e0\u05d3\u05e1"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u0648\u0644\u0627\u0646\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Bolans"
+    ],
+    "name:spa_x_preferred":[
+        "Bolands"
+    ],
+    "name:swe_x_preferred":[
+        "Bolands"
+    ],
+    "name:unk_x_variant":[
+        "Boland Village"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0644\u06cc\u0646\u0688\u0632"
+    ],
+    "qs:name":"Bolands",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":103,
+    "wof:belongsto":[
+        102191575,
+        85632529,
+        85668187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576361,
+        "gp:id":56134,
+        "qs:id":279799,
+        "wd:id":"Q1771701",
+        "wk:page":"Bolands"
+    },
+    "wof:country":"AG",
+    "wof:created":1469051866,
+    "wof:geomhash":"c5bb96debb1c65b81b7255e804400140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":890430805,
+            "region_id":85668187
+        }
+    ],
+    "wof:id":890430805,
+    "wof:lastmodified":1527729737,
+    "wof:name":"Bolands",
+    "wof:parent_id":85668187,
+    "wof:placetype":"locality",
+    "wof:population":1657,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.87466,
+    17.06565,
+    -61.87466,
+    17.06565
+],
+  "geometry": {"coordinates":[-61.87466,17.06565],"type":"Point"}
+}

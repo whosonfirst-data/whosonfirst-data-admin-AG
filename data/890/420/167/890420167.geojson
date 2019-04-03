@@ -1,0 +1,88 @@
+{
+  "id": 890420167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.83333,17.01667,-61.83333,17.01667",
+    "geom:latitude":17.01667,
+    "geom:longitude":-61.83333,
+    "gn:country":"AG",
+    "gn:fcode":"PPL",
+    "gn:pop":623,
+    "iso:country":"AG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Old Road"
+    ],
+    "name:eng_x_preferred":[
+        "Old Road"
+    ],
+    "name:ger_x_preferred":[
+        "Old Road"
+    ],
+    "name:pol_x_preferred":[
+        "Old Road"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043b\u0434-\u0420\u043e\u0443\u0434"
+    ],
+    "name:swe_x_preferred":[
+        "Old Road"
+    ],
+    "name:unk_x_variant":[
+        "Old Road Town"
+    ],
+    "qs:name":"Old Road",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":43,
+    "wof:belongsto":[
+        102191575,
+        85632529,
+        85668187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576085,
+        "gp:id":56147,
+        "qs:id":95964,
+        "wd:id":"Q7084854",
+        "wk:page":"Old Road"
+    },
+    "wof:country":"AG",
+    "wof:created":1469051321,
+    "wof:geomhash":"ada4421453efeff55681b6d05fd1d3a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":890420167,
+            "region_id":85668187
+        }
+    ],
+    "wof:id":890420167,
+    "wof:lastmodified":1553816392,
+    "wof:name":"Old Road",
+    "wof:parent_id":85668187,
+    "wof:placetype":"locality",
+    "wof:population":623,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.83333,
+    17.01667,
+    -61.83333,
+    17.01667
+],
+  "geometry": {"coordinates":[-61.83333,17.01667],"type":"Point"}
+}

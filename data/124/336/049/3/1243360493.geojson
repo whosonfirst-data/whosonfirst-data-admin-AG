@@ -1,0 +1,71 @@
+{
+  "id": 1243360493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.73143,17.05509,-61.73143,17.05509",
+    "geom:latitude":17.05509,
+    "geom:longitude":-61.73143,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ffryes",
+    "gn:country_code":"AG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576256,
+    "gn:latitude":17.05509,
+    "gn:longitude":-61.73143,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Ffryes",
+    "gn:population":0,
+    "gn:timezone":"America/Antigua",
+    "iso:country":"AG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Frryes",
+        "Simpson",
+        "Ffryes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632529,
+        85668181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576256,
+        "wk:page":"Ffryes"
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"bd6e9b755b8ef59af1636b4b440ce877",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":1243360493,
+            "region_id":85668181
+        }
+    ],
+    "wof:id":1243360493,
+    "wof:lastmodified":1537583952,
+    "wof:name":"Ffryes",
+    "wof:parent_id":85668181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.73143,
+    17.05509,
+    -61.73143,
+    17.05509
+],
+  "geometry": {"coordinates":[-61.73143,17.05509],"type":"Point"}
+}

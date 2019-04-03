@@ -1,0 +1,61 @@
+{
+  "id": 1209639309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.84685,17.08903,-61.84685,17.08903",
+    "geom:latitude":17.08903,
+    "geom:longitude":-61.84685,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Golden Grove",
+    "gn:country_code":"AG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576219,
+    "gn:latitude":17.08903,
+    "gn:longitude":-61.84685,
+    "gn:modification_date":"2012-02-06",
+    "gn:name":"Golden Grove",
+    "gn:population":0,
+    "gn:timezone":"America/Antigua",
+    "iso:country":"AG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576219
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"db7aaf5a988b00b57f423e2d7a94f82b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632529,
+            "locality_id":1209639309
+        }
+    ],
+    "wof:id":1209639309,
+    "wof:lastmodified":1536280935,
+    "wof:name":"Golden Grove",
+    "wof:parent_id":85632529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.84685,
+    17.089029999999998,
+    -61.84685,
+    17.089029999999998
+],
+  "geometry": {"coordinates":[-61.84685,17.08903],"type":"Point"}
+}

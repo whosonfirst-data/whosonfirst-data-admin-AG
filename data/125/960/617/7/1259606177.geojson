@@ -1,0 +1,73 @@
+{
+  "id": 1259606177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.88885,17.02985,-61.88885,17.02985",
+    "geom:latitude":17.02985,
+    "geom:longitude":-61.88885,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Johnsons Point",
+    "gn:cc2":"AG",
+    "gn:country_code":"AG",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576158,
+    "gn:latitude":17.02985,
+    "gn:longitude":-61.88885,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Johnsons Point",
+    "gn:population":0,
+    "gn:timezone":"America/Antigua",
+    "iso:country":"AG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u043e\u043d\u0441\u043e\u043d\u0441-\u041f\u043e\u0438\u043d\u0442"
+    ],
+    "name:und_x_variant":[
+        "Johnson Point",
+        "Johnson Point Village",
+        "Johnsons Point"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576158
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"a4b319337537f7f131dba0f4af3ed37f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":1259606177,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259606177,
+    "wof:lastmodified":1537583951,
+    "wof:name":"Johnsons Point",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.88885,
+    17.02985,
+    -61.88885,
+    17.02985
+],
+  "geometry": {"coordinates":[-61.88885,17.02985],"type":"Point"}
+}

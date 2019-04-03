@@ -1,0 +1,74 @@
+{
+  "id": 1293277861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.86582,17.07779,-61.86582,17.07779",
+    "geom:latitude":17.07779,
+    "geom:longitude":-61.86582,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Jennings",
+    "gn:cc2":"AG",
+    "gn:country_code":"AG",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576160,
+    "gn:latitude":17.07779,
+    "gn:longitude":-61.86582,
+    "gn:modification_date":"2012-02-06",
+    "gn:name":"Jennings",
+    "gn:population":0,
+    "gn:timezone":"America/Antigua",
+    "iso:country":"AG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0435\u043d\u043d\u0438\u043d\u0433\u0441"
+    ],
+    "name:und_x_variant":[
+        "Jennings Village",
+        "Jennings"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632529,
+        85668187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576160,
+        "wk:page":"Jennings%2C_Antigua_and_Barbuda"
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"d58479191391ed08940ec9d7203c2393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":1293277861,
+            "region_id":85668187
+        }
+    ],
+    "wof:id":1293277861,
+    "wof:lastmodified":1537583951,
+    "wof:name":"Jennings",
+    "wof:parent_id":85668187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.86581999999999,
+    17.07779,
+    -61.86581999999999,
+    17.07779
+],
+  "geometry": {"coordinates":[-61.86581999999999,17.07779],"type":"Point"}
+}

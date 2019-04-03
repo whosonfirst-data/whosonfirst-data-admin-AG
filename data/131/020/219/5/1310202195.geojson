@@ -1,0 +1,65 @@
+{
+  "id": 1310202195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.73322,17.07615,-61.73322,17.07615",
+    "geom:latitude":17.07615,
+    "geom:longitude":-61.73322,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Collins",
+    "gn:country_code":"AG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576307,
+    "gn:latitude":17.07615,
+    "gn:longitude":-61.73322,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Collins",
+    "gn:population":0,
+    "gn:timezone":"America/Antigua",
+    "iso:country":"AG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632529,
+        85668173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576307
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"b755d2b3e470d22a15c44fcf24aedc8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":1310202195,
+            "region_id":85668173
+        }
+    ],
+    "wof:id":1310202195,
+    "wof:lastmodified":1536855870,
+    "wof:name":"Collins",
+    "wof:parent_id":85668173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.73322,
+    17.07615,
+    -61.73322,
+    17.07615
+],
+  "geometry": {"coordinates":[-61.73322,17.07615],"type":"Point"}
+}

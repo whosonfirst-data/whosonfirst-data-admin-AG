@@ -1,0 +1,88 @@
+{
+  "id": 890420163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.8,17.05,-61.8,17.05",
+    "geom:latitude":17.05,
+    "geom:longitude":-61.8,
+    "gn:country":"AG",
+    "gn:fcode":"PPL",
+    "gn:pop":727,
+    "iso:country":"AG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Swetes"
+    ],
+    "name:eng_x_preferred":[
+        "Swetes"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0648\u0626\u062a\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Swetes"
+    ],
+    "name:spa_x_preferred":[
+        "Swetes"
+    ],
+    "name:swe_x_preferred":[
+        "Swetes"
+    ],
+    "name:unk_x_variant":[
+        "Swetes Village"
+    ],
+    "qs:name":"Swetes",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":91,
+    "wof:belongsto":[
+        102191575,
+        85632529,
+        85668181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3575975,
+        "gp:id":56238,
+        "qs:id":95960,
+        "wd:id":"Q1771579",
+        "wk:page":"Swetes"
+    },
+    "wof:country":"AG",
+    "wof:created":1469051321,
+    "wof:geomhash":"eb6f4c22ca4054999d08164021324a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":890420163,
+            "region_id":85668181
+        }
+    ],
+    "wof:id":890420163,
+    "wof:lastmodified":1527792810,
+    "wof:name":"Swetes",
+    "wof:parent_id":85668181,
+    "wof:placetype":"locality",
+    "wof:population":727,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.8,
+    17.05,
+    -61.8,
+    17.05
+],
+  "geometry": {"coordinates":[-61.8,17.05],"type":"Point"}
+}

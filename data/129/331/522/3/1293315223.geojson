@@ -1,0 +1,65 @@
+{
+  "id": 1293315223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.88646,17.06622,-61.88646,17.06622",
+    "geom:latitude":17.06622,
+    "geom:longitude":-61.88646,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Jolly Harbour",
+    "gn:country_code":"AG",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6695166,
+    "gn:latitude":17.06622,
+    "gn:longitude":-61.88646,
+    "gn:modification_date":"2013-11-19",
+    "gn:name":"Jolly Harbour",
+    "gn:population":0,
+    "gn:timezone":"America/Antigua",
+    "iso:country":"AG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6695166,
+        "wk:page":"Jolly_Harbour"
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"4cb3f5d790fd82a0c3d2df78ca3227c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":1293315223,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293315223,
+    "wof:lastmodified":1537486025,
+    "wof:name":"Jolly Harbour",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.88646,
+    17.06622,
+    -61.88646,
+    17.06622
+],
+  "geometry": {"coordinates":[-61.88646,17.06622],"type":"Point"}
+}

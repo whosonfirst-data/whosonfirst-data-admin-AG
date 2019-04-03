@@ -1,0 +1,65 @@
+{
+  "id": 1343684485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.85895,17.08285,-61.85895,17.08285",
+    "geom:latitude":17.08285,
+    "geom:longitude":-61.85895,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ebenezer",
+    "gn:country_code":"AG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576267,
+    "gn:latitude":17.08285,
+    "gn:longitude":-61.85895,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Ebenezer",
+    "gn:population":0,
+    "gn:timezone":"America/Antigua",
+    "iso:country":"AG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632529,
+        85668187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576267
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"a040197452445dc53919f44c5877ad73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":1343684485,
+            "region_id":85668187
+        }
+    ],
+    "wof:id":1343684485,
+    "wof:lastmodified":1536921078,
+    "wof:name":"Ebenezer",
+    "wof:parent_id":85668187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.85895,
+    17.08285,
+    -61.85895,
+    17.08285
+],
+  "geometry": {"coordinates":[-61.85895,17.08285],"type":"Point"}
+}

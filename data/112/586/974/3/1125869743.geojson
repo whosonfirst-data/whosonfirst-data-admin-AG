@@ -1,0 +1,122 @@
+{
+  "id": 1125869743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.78333,17.03333,-61.78333,17.03333",
+    "geom:latitude":17.03333,
+    "geom:longitude":-61.78333,
+    "gn:gn_country":"AG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1668,
+    "gn:population":1668,
+    "iso:country":"AG",
+    "lbl:latitude":17.03333,
+    "lbl:longitude":-61.78333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:cat_x_preferred":[
+        "Liberta"
+    ],
+    "name:dut_x_preferred":[
+        "Liberta"
+    ],
+    "name:eng_x_preferred":[
+        "Liberta"
+    ],
+    "name:fra_x_preferred":[
+        "Liberta"
+    ],
+    "name:fre_x_preferred":[
+        "Liberta"
+    ],
+    "name:glg_x_preferred":[
+        "Liberta"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03af\u03bc\u03c0\u03b5\u03c1\u03c4\u03b1"
+    ],
+    "name:ilo_x_preferred":[
+        "Liberta"
+    ],
+    "name:per_x_preferred":[
+        "\u0644\u06cc\u0628\u0631\u062a\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Liberta"
+    ],
+    "name:por_x_preferred":[
+        "Liberta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0431\u0435\u0440\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Liberta"
+    ],
+    "name:swe_x_preferred":[
+        "Liberta"
+    ],
+    "name:unk_x_variant":[
+        "Liberta Village"
+    ],
+    "qs_pg:aaroncc":"AG",
+    "qs_pg:gn_country":"AG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":3576144,
+    "qs_pg:gn_pop":1668,
+    "qs_pg:name":"Liberta",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":149025,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632529,
+        85668181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576144,
+        "qs_pg:id":149025,
+        "wd:id":"Q1771710"
+    },
+    "wof:country":"AG",
+    "wof:created":1497294228,
+    "wof:geomhash":"97fe55d5995547fa3e980e34d97758cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":1125869743,
+            "region_id":85668181
+        }
+    ],
+    "wof:id":1125869743,
+    "wof:lastmodified":1553816586,
+    "wof:name":"Liberta",
+    "wof:parent_id":85668181,
+    "wof:placetype":"locality",
+    "wof:population":1668,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.78333,
+    17.03333,
+    -61.78333,
+    17.03333
+],
+  "geometry": {"coordinates":[-61.78333,17.03333],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1277072083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.75136,17.03532,-61.75136,17.03532",
+    "geom:latitude":17.03532,
+    "geom:longitude":-61.75136,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Christian Hill",
+    "gn:country_code":"AG",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3576328,
+    "gn:latitude":17.03532,
+    "gn:longitude":-61.75136,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Christian Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Antigua",
+    "iso:country":"AG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632529,
+        85668181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576328
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"2ea4da4a918bf7cf35b3860e2364e74a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "locality_id":1277072083,
+            "region_id":85668181
+        }
+    ],
+    "wof:id":1277072083,
+    "wof:lastmodified":1536783492,
+    "wof:name":"Christian Hill",
+    "wof:parent_id":85668181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.75136,
+    17.03532,
+    -61.75136,
+    17.03532
+],
+  "geometry": {"coordinates":[-61.75136,17.03532],"type":"Point"}
+}

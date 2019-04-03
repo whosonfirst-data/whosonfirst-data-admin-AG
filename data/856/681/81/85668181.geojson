@@ -1,0 +1,251 @@
+{
+  "id": 85668181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.004305,
+    "geom:area_square_m":50901954.014217,
+    "geom:bbox":"-61.8150267798,16.989243882,-61.7262263657,17.0642849674",
+    "geom:latitude":17.032579,
+    "geom:longitude":-61.766957,
+    "gn:population":7325,
+    "iso:country":"AG",
+    "label:eng_x_preferred_longname":[
+        "Saint Paul Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":17.035934,
+    "lbl:longitude":-61.758922,
+    "mps:latitude":17.035934,
+    "mps:longitude":-61.758922,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:bre_x_preferred":[
+        "Saint Paul"
+    ],
+    "name:ceb_x_preferred":[
+        "Parish of Saint Paul"
+    ],
+    "name:deu_x_preferred":[
+        "Parish of Saint Paul"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Saint Paul"
+    ],
+    "name:eng_x_variant":[
+        "St Paul",
+        "St. Paul"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Paul"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u092a\u0949\u0932 \u092a\u0932\u094d\u0932\u0940"
+    ],
+    "name:ind_x_preferred":[
+        "Paroki Saint Paul"
+    ],
+    "name:ita_x_preferred":[
+        "Saint Paul"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uc778\ud2b8\ud3f4 \uad50\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Sentpola pagasts"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160v. Pauliaus parapija"
+    ],
+    "name:msa_x_preferred":[
+        "Paroki Saint Paul"
+    ],
+    "name:nld_x_preferred":[
+        "Saint Paul"
+    ],
+    "name:nor_x_preferred":[
+        "Saint Paul prestegjeld"
+    ],
+    "name:pol_x_preferred":[
+        "Saint Paul"
+    ],
+    "name:por_x_preferred":[
+        "Saint Paul"
+    ],
+    "name:ron_x_preferred":[
+        "Parohia Saint Paul"
+    ],
+    "name:spa_x_preferred":[
+        "Parroquia de Saint Paul"
+    ],
+    "name:srp_x_preferred":[
+        "\u0421\u0435\u043d\u0442 \u041f\u043e\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Parish of Saint Paul"
+    ],
+    "name:tgl_x_preferred":[
+        "Parokya ng Saint Paul"
+    ],
+    "name:unk_x_variant":[
+        "Parish of Saint Paul"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u067e\u0627\u0644 \u067e\u06cc\u0631\u0634\u060c \u0627\u06cc\u0646\u0679\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u0688\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4fdd\u7f85\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"ATG",
+    "ne:adm0_label":"6",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"ATG-5096",
+    "ne:adm1_code":"ATG-5096",
+    "ne:admin":"Antigua and Barbuda",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"AG.PA",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5096",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"AC06",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Antigua",
+    "ne:gn_a1_code":"AG.06",
+    "ne:gn_id":"3576017",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Parish of Saint Paul",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"AC06",
+    "ne:gns_id":"-1323519",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Saint Paul",
+    "ne:gns_region":"",
+    "ne:gu_a3":"ACA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"AG-06",
+    "ne:iso_a2":"AG",
+    "ne:labelrank":"20",
+    "ne:latitude":"17.03520000000",
+    "ne:longitude":"-61.76710000000",
+    "ne:mapcolor13":5,
+    "ne:mapcolor9":5,
+    "ne:name":"Saint Paul",
+    "ne:name_alt":"",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"ATG",
+    "ne:sub_code":"",
+    "ne:type":"Parish",
+    "ne:type_en":"Parish",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Saint_Paul_Parish_(Antigua_and_Barbuda)",
+    "ne:woe_id":2344545,
+    "ne:woe_label":"Saint Paul, AG, Antigua and Barbuda",
+    "ne:woe_name":"Saint Paul",
+    "qs:a0":"Antigua and Barbuda",
+    "qs:a0_lc":"AG",
+    "qs:a1":"Saint Paul",
+    "qs:a1_lc":"ATG-5096",
+    "qs:adm0":"Antigua and Barbuda",
+    "qs:adm0_a3":"ATG",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Parish",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2011-05-28",
+    "statoids:area_km":"48",
+    "statoids:area_mi":"19",
+    "statoids:as_of_date":"2011-05-28",
+    "statoids:capital":"Nelson's Dockyard",
+    "statoids:country":"AG",
+    "statoids:gec":"AC06",
+    "statoids:hasc":"AG.PA",
+    "statoids:iso":"06",
+    "statoids:name":"Saint Paul",
+    "statoids:population":"7979",
+    "statoids:timezone":"-4",
+    "statoids:type":"parish",
+    "unlc:subdivision":"AG-06",
+    "wd:wordcount":56,
+    "wof:belongsto":[
+        102191575,
+        85632529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"AC06",
+        "gn:id":3576017,
+        "gp:id":2344545,
+        "hasc:id":"AG.PA",
+        "iso:id":"AG-06",
+        "qs:id":1310682,
+        "unlc:id":"AG-06",
+        "wd:id":"Q386093",
+        "wk:page":"Saint Paul Parish, Antigua and Barbuda"
+    },
+    "wof:country":"AG",
+    "wof:geomhash":"eb375b062bc81c5938113fca8b508b37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632529,
+            "region_id":85668181
+        }
+    ],
+    "wof:id":85668181,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553550294,
+    "wof:name":"Saint Paul",
+    "wof:parent_id":85632529,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":7979,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ag",
+    "wof:shortcode":"PA",
+    "wof:subdivision":"AG-06",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.81502677976204,
+    16.98924388199958,
+    -61.72622636565421,
+    17.06428496737738
+],
+  "geometry": {"coordinates":[[[-61.72622636565421,17.03847890867473],[-61.73399817547539,17.03485748898197],[-61.73436438660713,17.02578359663573],[-61.7296443353178,17.0011660828485],[-61.73713131365918,16.98924388199958],[-61.75352942594219,16.99681224269091],[-61.76976477802202,17.01097239835752],[-61.77684485630505,17.01854075725021],[-61.78359941328227,17.01691315341935],[-61.80406653604177,17.00731028883882],[-61.8109450267915,17.02346744037015],[-61.80788371206364,17.03469226013976],[-61.81502677976204,17.04795795639461],[-61.80686327382097,17.05612146143636],[-61.78441363428175,17.06224409089214],[-61.77420925275476,17.0602032144069],[-61.74869829848762,17.0602032144069],[-61.7333917266468,17.06428496737738],[-61.72622636565421,17.03847890867473]]],"type":"Polygon"}
+}
