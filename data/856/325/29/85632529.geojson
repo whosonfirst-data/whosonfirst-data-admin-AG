@@ -33,9 +33,6 @@
     "name:aka_x_preferred":[
         "Antigua ne Baabuda"
     ],
-    "name:alb_x_preferred":[
-        "Antigua dhe Barbuda"
-    ],
     "name:als_x_preferred":[
         "Antigua und Barbuda"
     ],
@@ -60,9 +57,6 @@
     "name:arg_x_preferred":[
         "Antigua y Barbuda"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0576\u057f\u056b\u0563\u0578\u0582\u0561 \u0587 \u0532\u0561\u0580\u0562\u0578\u0582\u0564\u0561"
-    ],
     "name:arz_x_preferred":[
         "\u0627\u0646\u062a\u064a\u062c\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u062f\u0627"
     ],
@@ -86,9 +80,6 @@
     ],
     "name:bam_x_preferred":[
         "Antiga-ni-Barbuda"
-    ],
-    "name:baq_x_preferred":[
-        "Antigua eta Barbuda"
     ],
     "name:bar_x_preferred":[
         "Antigua und Barbuda"
@@ -128,9 +119,6 @@
     "name:bul_x_preferred":[
         "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0438 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
     ],
-    "name:bur_x_preferred":[
-        "\u1021\u1004\u103a\u1010\u102e\u1002\u103d\u102b\u1014\u103e\u1004\u1037\u103a \u1018\u102c\u1018\u1030\u1012\u102b\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
-    ],
     "name:bxr_x_preferred":[
         "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0431\u0430 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
     ],
@@ -150,9 +138,6 @@
         "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0430, \u0411\u0430\u0440\u0431\u0443\u0434\u0430 \u0430",
         "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5b89\u63d0\u74dc\u548c\u5df4\u5e03\u8fbe"
-    ],
     "name:chr_x_preferred":[
         "\u13a4\u13ea\u13d8 \u13a0\u13b4 \u13c6\u13ca\u13d3"
     ],
@@ -169,9 +154,7 @@
         "Antigwa a Barbiwda"
     ],
     "name:cym_x_variant":[
-        "Antigwa a Barbuda"
-    ],
-    "name:cze_x_preferred":[
+        "Antigwa a Barbuda",
         "Antigua a Barbuda"
     ],
     "name:dan_x_preferred":[
@@ -188,9 +171,6 @@
     ],
     "name:dty_x_preferred":[
         "\u090f\u0928\u094d\u091f\u093f\u0917\u0941\u0906 \u0930 \u092c\u0930\u094d\u092c\u0941\u0921\u093e"
-    ],
-    "name:dut_x_preferred":[
-        "Antigua en Barbuda"
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bd\u03c4\u03af\u03b3\u03ba\u03bf\u03c5\u03b1 \u03ba\u03b1\u03b9 \u039c\u03c0\u03b1\u03c1\u03bc\u03c0\u03bf\u03cd\u03bd\u03c4\u03b1"
@@ -242,9 +222,6 @@
     "name:fra_x_variant":[
         "Antigua et Barbuda"
     ],
-    "name:fre_x_preferred":[
-        "Antigua-et-Barbuda"
-    ],
     "name:frp_x_preferred":[
         "Antigoa-et-Barbuda"
     ],
@@ -262,12 +239,6 @@
     ],
     "name:gag_x_preferred":[
         "Antigua hem Barbuda"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10dc\u10e2\u10d8\u10d2\u10e3\u10d0 \u10d3\u10d0 \u10d1\u10d0\u10e0\u10d1\u10e3\u10d3\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Antigua und Barbuda"
     ],
     "name:gla_x_preferred":[
         "Antigua agus Barbuda"
@@ -289,9 +260,6 @@
     ],
     "name:gom_x_preferred":[
         "\u0905\u0901\u091f\u093f\u0917\u093e \u0906\u0923\u093f \u092c\u093e\u0930\u094d\u092c\u0941\u0921\u093e"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bd\u03c4\u03af\u03b3\u03ba\u03bf\u03c5\u03b1 \u03ba\u03b1\u03b9 \u039c\u03c0\u03b1\u03c1\u03bc\u03c0\u03bf\u03cd\u03bd\u03c4\u03b1"
     ],
     "name:grn_x_preferred":[
         "Antigua ha Barbuda"
@@ -351,9 +319,6 @@
     ],
     "name:hye_x_variant":[
         "\u0531\u0576\u057f\u056b\u0563\u0578\u0582\u0561-\u0532\u0561\u0580\u0562\u0578\u0582\u0564\u0561"
-    ],
-    "name:ice_x_preferred":[
-        "Ant\u00edgva og Barb\u00fada"
     ],
     "name:ido_x_preferred":[
         "Antigua e Barbuda"
@@ -476,9 +441,6 @@
     "name:lug_x_preferred":[
         "Antigwa ne Barabuda"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u043d\u0442\u0438\u0433\u0432\u0430 \u0438 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
-    ],
     "name:mai_x_preferred":[
         "\u090f\u0928\u094d\u091f\u093f\u0917\u0941\u0906 \u0906 \u092c\u0930\u094d\u092c\u0941\u0921\u093e"
     ],
@@ -493,9 +455,6 @@
     ],
     "name:mar_x_variant":[
         "\u0905\u0901\u091f\u093f\u0917\u094d\u0935\u093e \u0906\u0923\u093f \u092c\u0930\u094d\u092c\u0941\u0921\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Antigua dan Barbuda"
     ],
     "name:min_x_preferred":[
         "Antigua jo Barbuda"
@@ -599,9 +558,6 @@
     "name:pap_x_preferred":[
         "Antigua y Barbuda"
     ],
-    "name:per_x_preferred":[
-        "\u0622\u0646\u062a\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u062f\u0627"
-    ],
     "name:pih_x_preferred":[
         "Antigua a' Barbuda"
     ],
@@ -630,11 +586,11 @@
     "name:ron_x_preferred":[
         "Antigua \u0219i Barbuda"
     ],
+    "name:ron_x_variant":[
+        "Antigua \u015ei Barbuda"
+    ],
     "name:rue_x_preferred":[
         "\u0410\u043d\u0442\u0456\u0491\u0443\u0430 \u0456 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
-    ],
-    "name:rum_x_preferred":[
-        "Antigua \u015ei Barbuda"
     ],
     "name:rum_x_variant":[
         "Antigua \u0219i Barbuda"
@@ -677,9 +633,6 @@
     ],
     "name:slk_x_variant":[
         "Antigua a Barbados"
-    ],
-    "name:slo_x_preferred":[
-        "Antigua a Barbuda"
     ],
     "name:slv_x_preferred":[
         "Antigva in Barbuda"
@@ -762,9 +715,6 @@
     "name:tha_x_variant":[
         "\u0e41\u0e2d\u0e19\u0e15\u0e34\u0e01\u0e32\u0e41\u0e25\u0e30\u0e1a\u0e32\u0e23\u0e4c\u0e1a\u0e39\u0e14\u0e32"
     ],
-    "name:tib_x_preferred":[
-        "\u0f68\u0f7a\u0f53\u0f0b\u0f4a\u0f72\u0f0b\u0f42\u0f74\u0f60\u0f0b\u0f51\u0f44\u0f0b\u0f56\u0f62\u0f0b\u0f56\u0f74\u0f0b\u0f4c\u0f0d"
-    ],
     "name:tir_x_preferred":[
         "\u12a0\u1295\u1272\u1313 \u12a5\u1293 \u1263\u1229\u12f3"
     ],
@@ -824,9 +774,6 @@
     "name:war_x_preferred":[
         "Antigua ngan Barbuda"
     ],
-    "name:wel_x_preferred":[
-        "Antigua a Barbuda"
-    ],
     "name:wol_x_preferred":[
         "Antigua ak Barbuda"
     ],
@@ -858,7 +805,6 @@
         "\u5b89\u63d0\u74dc\u548c\u5df4\u5e03\u8fbe"
     ],
     "name:zho_x_variant":[
-        "\u5b89\u63d0\u74dc\u548c\u5df4\u5e03\u8fbe",
         "\u5b89\u63d0\u74dc\u548c\u5df4\u5e03\u9054"
     ],
     "name:zho_yue_x_preferred":[
@@ -1013,7 +959,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1544059285,
+    "wof:lastmodified":1561777150,
     "wof:name":"Antigua and Barbuda",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

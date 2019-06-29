@@ -15,14 +15,14 @@
     "iso:country":"AG",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Freetown"
+    "name:deu_x_preferred":[
+        "Free Town"
     ],
     "name:eng_x_preferred":[
         "Freetown"
     ],
-    "name:ger_x_preferred":[
-        "Free Town"
+    "name:nld_x_preferred":[
+        "Freetown"
     ],
     "name:pol_x_preferred":[
         "Freetown"
@@ -69,7 +69,7 @@
         }
     ],
     "wof:id":890420169,
-    "wof:lastmodified":1513888413,
+    "wof:lastmodified":1561777152,
     "wof:name":"Freetown",
     "wof:parent_id":85668177,
     "wof:placetype":"locality",
