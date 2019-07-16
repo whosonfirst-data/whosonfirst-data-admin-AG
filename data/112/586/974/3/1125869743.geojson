@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Liberta"
     ],
+    "name:ceb_x_preferred":[
+        "Liberta"
+    ],
     "name:ell_x_preferred":[
         "\u039b\u03af\u03bc\u03c0\u03b5\u03c1\u03c4\u03b1"
     ],
@@ -61,6 +64,9 @@
     "name:unk_x_variant":[
         "Liberta Village"
     ],
+    "name:zho_x_preferred":[
+        "\u5229\u4f2f\u5854"
+    ],
     "qs_pg:aaroncc":"AG",
     "qs_pg:gn_country":"AG",
     "qs_pg:gn_fcode":"PPL",
@@ -98,7 +104,7 @@
         }
     ],
     "wof:id":1125869743,
-    "wof:lastmodified":1561777152,
+    "wof:lastmodified":1563305258,
     "wof:name":"Liberta",
     "wof:parent_id":85668181,
     "wof:placetype":"locality",

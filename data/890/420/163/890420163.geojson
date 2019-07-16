@@ -15,6 +15,9 @@
     "iso:country":"AG",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Swetes"
+    ],
     "name:eng_x_preferred":[
         "Swetes"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:unk_x_variant":[
         "Swetes Village"
+    ],
+    "name:zho_x_preferred":[
+        "\u65af\u5a01\u7279"
     ],
     "qs:name":"Swetes",
     "qs:photos_9r":0,
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":890420163,
-    "wof:lastmodified":1561777152,
+    "wof:lastmodified":1563305257,
     "wof:name":"Swetes",
     "wof:parent_id":85668181,
     "wof:placetype":"locality",
