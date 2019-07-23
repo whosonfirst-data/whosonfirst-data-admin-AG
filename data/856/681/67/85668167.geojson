@@ -109,8 +109,14 @@
     "name:kan_x_preferred":[
         "\u0cb0\u0cc6\u0ca1\u0ccd\u0ca1\u0cbe"
     ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0435\u0434\u043e\u043d\u0434\u0430"
+    ],
     "name:kor_x_preferred":[
         "\ub808\ub3c8\ub2e4 \uc12c"
+    ],
+    "name:kor_x_variant":[
+        "\ub808\ub3c8\ub2e4\uc12c"
     ],
     "name:lat_x_preferred":[
         "Redonda"
@@ -311,7 +317,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561777149,
+    "wof:lastmodified":1563305234,
     "wof:name":"Redonda",
     "wof:parent_id":85632529,
     "wof:placetype":"region",
