@@ -25,6 +25,9 @@
     "iso:country":"AG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Betty's Hope"
+    ],
     "name:und_x_variant":[
         "Betty\u2019s Hope"
     ],
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1242994489,
-    "wof:lastmodified":1537583952,
+    "wof:lastmodified":1564148472,
     "wof:name":"Betty's Hope",
     "wof:parent_id":85668173,
     "wof:placetype":"locality",
