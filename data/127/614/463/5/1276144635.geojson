@@ -25,9 +25,21 @@
     "iso:country":"AG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Willikies"
+    ],
+    "name:pol_x_preferred":[
+        "Willikies"
+    ],
+    "name:swe_x_preferred":[
+        "Willikies"
+    ],
     "name:und_x_variant":[
         "Willikie\u2019s",
         "Willikies"
+    ],
+    "name:zho_x_preferred":[
+        "\u5a01\u5229\u57fa\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1276144635,
-    "wof:lastmodified":1537583950,
+    "wof:lastmodified":1564148461,
     "wof:name":"Willikies",
     "wof:parent_id":85668177,
     "wof:placetype":"locality",

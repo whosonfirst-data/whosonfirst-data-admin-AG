@@ -25,6 +25,9 @@
     "iso:country":"AG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Fitches Creek"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1326741861,
-    "wof:lastmodified":1536681748,
+    "wof:lastmodified":1564148449,
     "wof:name":"Fitches Creek",
     "wof:parent_id":85668171,
     "wof:placetype":"locality",
