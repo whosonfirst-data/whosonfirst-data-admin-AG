@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PE"
+    ],
     "lbl:latitude":17.097144,
     "lbl:longitude":-61.740971,
     "mps:latitude":17.097144,
@@ -257,16 +260,13 @@
         }
     ],
     "wof:id":85668173,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563305234,
+    "wof:lastmodified":1565651715,
     "wof:name":"Saint Peter",
     "wof:parent_id":85632529,
     "wof:placetype":"region",

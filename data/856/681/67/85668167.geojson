@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "dependency"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RD"
+    ],
     "lbl:latitude":16.935949,
     "lbl:longitude":-62.345277,
     "mps:latitude":16.935949,
@@ -317,7 +320,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563305234,
+    "wof:lastmodified":1565651715,
     "wof:name":"Redonda",
     "wof:parent_id":85632529,
     "wof:placetype":"region",

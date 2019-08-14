@@ -16,6 +16,9 @@
         "1-268"
     ],
     "itu:region":"1",
+    "label:eng_x_preferred_shortcode":[
+        "AG"
+    ],
     "lbl:latitude":17.06938,
     "lbl:longitude":-61.809739,
     "mps:latitude":17.06938,
@@ -988,16 +991,13 @@
         }
     ],
     "wof:id":85632529,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563305241,
+    "wof:lastmodified":1565651716,
     "wof:name":"Antigua and Barbuda",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

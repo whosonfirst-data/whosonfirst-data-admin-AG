@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "dependency"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BB"
+    ],
     "lbl:latitude":17.620885,
     "lbl:longitude":-61.781988,
     "mps:latitude":17.620885,
@@ -352,16 +355,13 @@
         }
     ],
     "wof:id":85668161,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563305233,
+    "wof:lastmodified":1565651713,
     "wof:name":"Barbuda",
     "wof:parent_id":85632529,
     "wof:placetype":"region",
