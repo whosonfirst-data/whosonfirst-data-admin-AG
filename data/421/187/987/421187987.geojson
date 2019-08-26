@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-61.874914,17.026421,-61.874914,17.026421",
     "geom:latitude":17.026421,
     "geom:longitude":-61.874914,
     "iso:country":"AG",
+    "lbl:bbox":"-61.894914,17.006421,-61.854914,17.046421",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56203,
-        "qs:id":1086886
+        "qs_pg:id":1086886
     },
     "wof:country":"AG",
     "wof:created":1459009530,
-    "wof:geomhash":"1837432ea19941afc9a68a691ebb22b3",
+    "wof:geomhash":"f77efa6935632b1ac823117307e118e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421187987,
-    "wof:lastmodified":1466635866,
+    "wof:lastmodified":1566584577,
     "wof:name":"Orange Valley Mill",
     "wof:parent_id":85668187,
     "wof:placetype":"locality",

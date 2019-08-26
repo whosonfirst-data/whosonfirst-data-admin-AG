@@ -11,11 +11,14 @@
     "geom:longitude":-61.8,
     "gn:country":"AG",
     "gn:fcode":"ISL",
-    "gn:pop":69000,
+    "gn:population":69000,
     "iso:country":"AG",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":8.0,
     "name:cat_x_preferred":[
         "Illa dAntigua"
     ],
@@ -73,9 +76,6 @@
     "name:swe_x_preferred":[
         "Antigua"
     ],
-    "name:unk_x_variant":[
-        "Antigua"
-    ],
     "name:zho_x_preferred":[
         "\u5b89\u5730\u5361\u5cf6"
     ],
@@ -93,7 +93,7 @@
     "wof:concordances":{
         "gn:id":3576395,
         "gp:id":56238,
-        "qs:id":95971
+        "qs_pg:id":95971
     },
     "wof:country":"AG",
     "wof:created":1469051322,
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":890420181,
-    "wof:lastmodified":1505343455,
+    "wof:lastmodified":1566584578,
     "wof:name":"Antigua Island",
     "wof:parent_id":85668181,
     "wof:placetype":"locality",

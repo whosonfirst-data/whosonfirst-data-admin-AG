@@ -9,15 +9,18 @@
     "geom:bbox":"-61.78333,17.03333,-61.78333,17.03333",
     "geom:latitude":17.03333,
     "geom:longitude":-61.78333,
-    "gn:gn_country":"AG",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":1668,
+    "gn:country":"AG",
+    "gn:fcode":"PPL",
     "gn:population":1668,
     "iso:country":"AG",
+    "lbl:bbox":"-61.80333,17.01333,-61.76333,17.05333",
     "lbl:latitude":17.03333,
     "lbl:longitude":-61.78333,
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:cat_x_preferred":[
         "Liberta"
@@ -61,7 +64,7 @@
     "name:swe_x_preferred":[
         "Liberta"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Liberta Village"
     ],
     "name:zho_x_preferred":[
@@ -79,7 +82,7 @@
     "qs_pg:qs_id":149025,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191575,
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1125869743,
-    "wof:lastmodified":1563305258,
+    "wof:lastmodified":1566584579,
     "wof:name":"Liberta",
     "wof:parent_id":85668181,
     "wof:placetype":"locality",

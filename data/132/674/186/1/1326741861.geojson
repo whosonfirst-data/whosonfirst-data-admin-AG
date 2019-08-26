@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Antigua",
     "iso:country":"AG",
+    "lbl:bbox":"-61.8149,17.10419,-61.7749,17.14419",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Fitches Creek"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326741861,
-    "wof:lastmodified":1564148449,
+    "wof:lastmodified":1566584565,
     "wof:name":"Fitches Creek",
     "wof:parent_id":85668171,
     "wof:placetype":"locality",

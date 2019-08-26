@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Antigua",
     "iso:country":"AG",
+    "lbl:bbox":"-61.82977,17.04994,-61.78977,17.08994",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Aberdeen"
     ],
@@ -269,8 +273,7 @@
         "\u0410\u0431\u0435\u0440\u0434\u0438\u043d"
     ],
     "name:und_x_variant":[
-        "Aberdeen Village",
-        "Aberdeen"
+        "Aberdeen Village"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0628\u0631\u0688\u06cc\u0646"
@@ -320,7 +323,7 @@
         }
     ],
     "wof:id":1327030419,
-    "wof:lastmodified":1564148455,
+    "wof:lastmodified":1566584567,
     "wof:name":"Aberdeen",
     "wof:parent_id":85668191,
     "wof:placetype":"locality",

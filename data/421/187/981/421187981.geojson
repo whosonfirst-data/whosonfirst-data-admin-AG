@@ -10,8 +10,12 @@
     "geom:latitude":17.075164,
     "geom:longitude":-61.799125,
     "iso:country":"AG",
+    "lbl:bbox":"-61.819125,17.055164,-61.779125,17.095164",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Herberts"
@@ -44,7 +48,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56182,
-        "qs:id":1086884
+        "qs_pg:id":1086884
     },
     "wof:country":"AG",
     "wof:created":1459009530,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421187981,
-    "wof:lastmodified":1527716253,
+    "wof:lastmodified":1566584577,
     "wof:name":"Herberts",
     "wof:parent_id":85668191,
     "wof:placetype":"locality",

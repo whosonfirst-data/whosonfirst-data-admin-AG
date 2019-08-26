@@ -11,10 +11,14 @@
     "geom:longitude":-61.787167,
     "gn:country":"AG",
     "gn:fcode":"PPLL",
-    "gn:pop":831,
+    "gn:population":831,
     "iso:country":"AG",
+    "lbl:bbox":"-61.807167,17.120028,-61.767167,17.160028",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Carlisle"
@@ -66,12 +70,12 @@
     "wof:concordances":{
         "gn:id":3576344,
         "gp:id":56140,
-        "qs:id":1086883,
+        "qs_pg:id":1086883,
         "wd:id":"Q2524399",
         "wk:page":"Carlisle"
     },
     "wof:concordances_alt":{
-        "qs:id":95970
+        "qs_pg:id":95970
     },
     "wof:country":"AG",
     "wof:created":1459009530,
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421187979,
-    "wof:lastmodified":1563305252,
+    "wof:lastmodified":1566584577,
     "wof:name":"Carlisle",
     "wof:parent_id":85668171,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Antigua",
     "iso:country":"AG",
+    "lbl:bbox":"-61.90885,17.00985,-61.86885,17.04985",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0414\u0436\u043e\u043d\u0441\u043e\u043d\u0441-\u041f\u043e\u0438\u043d\u0442"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259606177,
-    "wof:lastmodified":1537583951,
+    "wof:lastmodified":1566584581,
     "wof:name":"Johnsons Point",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

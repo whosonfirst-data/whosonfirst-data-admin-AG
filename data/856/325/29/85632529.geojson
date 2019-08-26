@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":17.06938,
     "lbl:longitude":-61.809739,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":17.06938,
     "mps:longitude":-61.809739,
     "mz:hierarchy_label":1,
@@ -772,10 +774,7 @@
         "\u0410\u043d\u0442\u0438\u0491\u0443\u0430 \u0456 \u0411\u0430\u0440\u0431\u0443\u0434\u0430",
         "\u0410\u043d\u0442\u0456\u0433\u0443\u0430 \u0456 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
     ],
-    "name:und_x_preferred":[
-        "Antigva in Barbuda"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Antigua Presidency"
     ],
     "name:urd_x_preferred":[
@@ -930,7 +929,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"1-268",
     "statoids:ds":"",
@@ -950,7 +949,6 @@
     "wd:longitude":-61.85,
     "wd:population":89985,
     "wd:wordcount":3494,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191575
     ],
@@ -976,7 +974,7 @@
         "mzb:id":"antigua-and-barbuda",
         "ne:adm0_a3":"ATG",
         "nyt:id":"N67228395880060515531",
-        "qs:id":219929,
+        "qs_pg:id":219929,
         "wd:id":"Q781",
         "wk:page":"Antigua and Barbuda",
         "wmo:id":"AT"
@@ -997,7 +995,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565651716,
+    "wof:lastmodified":1566584569,
     "wof:name":"Antigua and Barbuda",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

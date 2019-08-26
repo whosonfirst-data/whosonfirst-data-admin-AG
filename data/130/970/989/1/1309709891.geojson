@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Antigua",
     "iso:country":"AG",
+    "lbl:bbox":"-61.81493,17.03816,-61.77493,17.07816",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Matthews"
     ],
@@ -71,8 +75,7 @@
         "\u041c\u0435\u0442\u0442\u044c\u044e\u0437"
     ],
     "name:und_x_variant":[
-        "Mathew",
-        "Matthews"
+        "Mathew"
     ],
     "name:vol_x_preferred":[
         "Matthews"
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1309709891,
-    "wof:lastmodified":1564148468,
+    "wof:lastmodified":1566584575,
     "wof:name":"Matthews",
     "wof:parent_id":85668181,
     "wof:placetype":"locality",

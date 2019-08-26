@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Antigua",
     "iso:country":"AG",
+    "lbl:bbox":"-61.72721,17.05853,-61.68721,17.09853",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0642\u0631\u06cc\u0632"
     ],
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":1310300989,
-    "wof:lastmodified":1564148464,
+    "wof:lastmodified":1566584573,
     "wof:name":"Grays",
     "wof:parent_id":85668177,
     "wof:placetype":"locality",
