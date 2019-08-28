@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-61.7810965,17.07666,-61.7810965,17.07666",
     "geom:latitude":17.07666,
     "geom:longitude":-61.781096,
     "iso:country":"AG",
+    "lbl:bbox":"-61.8010965,17.05666,-61.7610965,17.09666",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56130,
-        "qs:id":976943
+        "qs_pg:id":976943
     },
     "wof:country":"AG",
     "wof:created":1459009369,
-    "wof:geomhash":"51e2ef729aea3cd4d6f620012fe9f1c3",
+    "wof:geomhash":"d589e607e7a0f468528175b9d3d148c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421183437,
-    "wof:lastmodified":1466635857,
+    "wof:lastmodified":1566584577,
     "wof:name":"Big Duers",
     "wof:parent_id":85668171,
     "wof:placetype":"locality",

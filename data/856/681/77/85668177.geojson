@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":17.059519,
     "lbl:longitude":-61.70816,
+    "lbl:min_zoom":8.0,
     "mps:latitude":17.059519,
     "mps:longitude":-61.70816,
     "mz:hierarchy_label":1,
@@ -144,9 +145,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u0440\u0430\u0444\u0456\u044f \u0421\u0435\u043d\u0442-\u0424\u0456\u043b\u0456\u043f"
     ],
-    "name:unk_x_variant":[
-        "Parish of Saint Philip"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679 \u0641\u0644\u067e \u067e\u06cc\u0631\u0634\u060c \u0627\u06cc\u0646\u0679\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u0688\u0627"
     ],
@@ -229,9 +227,9 @@
     "qs:type":"Parish",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2011-05-28",
+    "src:population_date":"2011-05-28",
     "statoids:area_km":"44",
     "statoids:area_mi":"17",
     "statoids:as_of_date":"2011-05-28",
@@ -257,7 +255,7 @@
         "gp:id":2344547,
         "hasc:id":"AG.PH",
         "iso:id":"AG-08",
-        "qs:id":898606,
+        "qs_pg:id":898606,
         "unlc:id":"AG-08",
         "wd:id":"Q1996895",
         "wk:page":"Saint Philip Parish, Antigua and Barbuda"
@@ -278,11 +276,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565651716,
+    "wof:lastmodified":1566584569,
     "wof:name":"Saint Philip",
     "wof:parent_id":85632529,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"parish",
     "wof:population":3125,
     "wof:population_rank":4,

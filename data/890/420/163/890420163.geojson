@@ -11,10 +11,14 @@
     "geom:longitude":-61.8,
     "gn:country":"AG",
     "gn:fcode":"PPL",
-    "gn:pop":727,
+    "gn:population":727,
     "iso:country":"AG",
+    "lbl:bbox":"-61.82,17.03,-61.78,17.07",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Swetes"
     ],
@@ -36,7 +40,7 @@
     "name:swe_x_preferred":[
         "Swetes"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Swetes Village"
     ],
     "name:zho_x_preferred":[
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":3575975,
         "gp:id":56238,
-        "qs:id":95960,
+        "qs_pg:id":95960,
         "wd:id":"Q1771579",
         "wk:page":"Swetes"
     },
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890420163,
-    "wof:lastmodified":1563305257,
+    "wof:lastmodified":1566584578,
     "wof:name":"Swetes",
     "wof:parent_id":85668181,
     "wof:placetype":"locality",

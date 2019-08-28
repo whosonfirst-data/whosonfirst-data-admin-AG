@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-61.8429845,17.016655,-61.8429845,17.016655",
     "geom:latitude":17.016655,
     "geom:longitude":-61.842985,
     "iso:country":"AG",
+    "lbl:bbox":"-61.8629845,16.996655,-61.8229845,17.036655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56139,
-        "qs:id":361811
+        "qs_pg:id":361811
     },
     "wof:country":"AG",
     "wof:created":1459009243,
-    "wof:geomhash":"af9620364e6b9af17eb71c0599743f44",
+    "wof:geomhash":"716b795e722789a51bb8e37ed534427c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421180085,
-    "wof:lastmodified":1466635850,
+    "wof:lastmodified":1566584576,
     "wof:name":"Cades Bay",
     "wof:parent_id":85668187,
     "wof:placetype":"locality",
