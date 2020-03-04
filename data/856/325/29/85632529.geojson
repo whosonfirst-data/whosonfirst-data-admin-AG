@@ -981,6 +981,10 @@
     },
     "wof:country":"AG",
     "wof:country_alpha3":"ATG",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"ce04e2cef3b7f6b59f76950716b4ca2a",
     "wof:hierarchy":[
         {
@@ -995,7 +999,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566584569,
+    "wof:lastmodified":1582326308,
     "wof:name":"Antigua and Barbuda",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
