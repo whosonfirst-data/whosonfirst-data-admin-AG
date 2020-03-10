@@ -958,9 +958,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Antigua_and_Barbuda",
-        "digitalenvoy:country_code":[
-            28
-        ],
+        "digitalenvoy:country_code":28,
         "fb:id":"en.antigua_and_barbuda",
         "fifa:id":"ATG",
         "fips:code":"AC",
@@ -1002,7 +1000,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583529073,
+    "wof:lastmodified":1583797276,
     "wof:name":"Antigua and Barbuda",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
