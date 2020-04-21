@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038467,
-    "geom:area_square_m":454189153.833912,
+    "geom:area_square_m":454188366.125681,
     "geom:bbox":"-62.353027,16.932028,-61.657555,17.730417",
     "geom:latitude":17.27815,
     "geom:longitude":-61.799121,
@@ -61,6 +61,9 @@
     ],
     "name:arg_x_preferred":[
         "Antigua y Barbuda"
+    ],
+    "name:ary_x_preferred":[
+        "\u0623\u0646\u062a\u064a\u06ad\u0648\u0627 \u0624\u0628\u0627\u0631\u0628\u0648\u062f\u0627"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0646\u062a\u064a\u062c\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u062f\u0627"
@@ -171,8 +174,17 @@
     "name:dan_x_preferred":[
         "Antigua og Barbuda"
     ],
+    "name:deu_at_x_preferred":[
+        "Antigua und Barbuda"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Antigua und Barbuda"
+    ],
     "name:deu_x_preferred":[
         "Antigua und Barbuda"
+    ],
+    "name:diq_x_preferred":[
+        "Antigua u Barbuda"
     ],
     "name:div_x_preferred":[
         "\u0787\u07ac\u0782\u07b0\u0793\u07a8\u078e\u07aa\u0787\u07a7 \u0787\u07a6\u078b\u07a8 \u0784\u07a7\u0784\u07a8\u0787\u07aa\u0791\u07a7"
@@ -185,6 +197,12 @@
     ],
     "name:ell_x_preferred":[
         "\u0391\u03bd\u03c4\u03af\u03b3\u03ba\u03bf\u03c5\u03b1 \u03ba\u03b1\u03b9 \u039c\u03c0\u03b1\u03c1\u03bc\u03c0\u03bf\u03cd\u03bd\u03c4\u03b1"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Antigua and Barbuda"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Antigua and Barbuda"
     ],
     "name:eng_x_preferred":[
         "Antigua and Barbuda"
@@ -253,6 +271,9 @@
     ],
     "name:gag_x_preferred":[
         "Antigua hem Barbuda"
+    ],
+    "name:gcr_x_preferred":[
+        "Antigua-\u00e9-Barbuda"
     ],
     "name:gla_x_preferred":[
         "Antigua agus Barbuda"
@@ -596,6 +617,9 @@
         "Antigua I Barbuda",
         "Antigua i Barbuda"
     ],
+    "name:por_br_x_preferred":[
+        "Ant\u00edgua e Barbuda"
+    ],
     "name:por_x_preferred":[
         "Ant\u00edgua e Barbuda"
     ],
@@ -698,6 +722,9 @@
     "name:srd_x_preferred":[
         "Antigua e Barbuda"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0410\u043d\u0442\u0438\u0433\u0432\u0430 \u0438 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
+    ],
     "name:srp_x_preferred":[
         "\u0410\u043d\u0442\u0438\u0433\u0432\u0430 \u0438 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
     ],
@@ -721,6 +748,9 @@
     ],
     "name:szl_x_preferred":[
         "Antigua a Barbuda"
+    ],
+    "name:szy_x_preferred":[
+        "Antigua and barbuda"
     ],
     "name:tah_x_preferred":[
         "Antigua e Barbuda"
@@ -763,6 +793,9 @@
     ],
     "name:tur_x_preferred":[
         "Antigua ve Barbuda"
+    ],
+    "name:udm_x_preferred":[
+        "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u043d\u043e \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
     ],
     "name:uig_x_preferred":[
         "\u0626\u0627\u0646\u062a\u0649\u06af\u06c7\u0626\u0627 \u06cb\u06d5 \u0628\u0627\u0631\u0628\u06c7\u062f\u0627"
@@ -838,8 +871,17 @@
     "name:zha_x_preferred":[
         "Antigua caeuq Barbuda"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u5b89\u63d0\u74dc\u548c\u5df4\u5e03\u8fbe"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u5b89\u63d0\u74dc\u548c\u5df4\u5e03\u9054"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Antigua kap Barbuda"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5b89\u5730\u5361\u53ca\u5df4\u5e03\u9054"
     ],
     "name:zho_x_preferred":[
         "\u5b89\u63d0\u74dc\u548c\u5df4\u5e03\u8fbe"
@@ -1000,7 +1042,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583797276,
+    "wof:lastmodified":1587427670,
     "wof:name":"Antigua and Barbuda",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
