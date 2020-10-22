@@ -9,7 +9,6 @@
     "geom:bbox":"-62.353027,16.932028,-61.657555,17.730417",
     "geom:latitude":17.27815,
     "geom:longitude":-61.799121,
-    "gn:id":"",
     "gn:population":86754,
     "iso:country":"AG",
     "itu:country_code":[
@@ -1042,7 +1041,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1587427670,
+    "wof:lastmodified":1603249323,
     "wof:name":"Antigua and Barbuda",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
