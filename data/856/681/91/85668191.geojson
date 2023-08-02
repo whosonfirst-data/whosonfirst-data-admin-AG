@@ -47,8 +47,20 @@
         "Stjohn",
         "Saint John Parish"
     ],
+    "name:epo_x_preferred":[
+        "Sankta Johano"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0631\u06cc\u0633 \u0633\u0646\u062a \u062c\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Saint John"
+    ],
     "name:fra_x_preferred":[
         "Saint-John"
+    ],
+    "name:frr_x_preferred":[
+        "Saint John"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0947\u0902\u091f \u091c\u0949\u0928 \u092a\u0932\u094d\u0932\u0940"
@@ -65,6 +77,9 @@
     "name:kor_x_preferred":[
         "\uc138\uc778\ud2b8\uc874 \uad50\uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc138\uc778\ud2b8\uc874\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Sentd\u017eona pagasts"
     ],
@@ -80,6 +95,9 @@
     "name:nob_x_preferred":[
         "Saint John prestegjeld"
     ],
+    "name:nob_x_variant":[
+        "Saint John Parish"
+    ],
     "name:nor_x_preferred":[
         "Saint John prestegjeld"
     ],
@@ -89,8 +107,14 @@
     "name:por_x_preferred":[
         "Saint John"
     ],
+    "name:por_x_variant":[
+        "S\u00e3o Jo\u00e3o"
+    ],
     "name:ron_x_preferred":[
         "Parohia Saint John"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u043d"
     ],
     "name:spa_x_preferred":[
         "Parroquia de Saint John"
@@ -249,7 +273,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496665,
+    "wof:lastmodified":1690849657,
     "wof:name":"Saint John",
     "wof:parent_id":85632529,
     "wof:placetype":"region",

@@ -49,6 +49,9 @@
     "name:ita_x_preferred":[
         "All Saints"
     ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30fc\u30eb\u30fb\u30bb\u30a4\u30f3\u30c4"
+    ],
     "name:lit_x_preferred":[
         "Ol Sentsas"
     ],
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":890441879,
-    "wof:lastmodified":1566584577,
+    "wof:lastmodified":1690849659,
     "wof:name":"All Saints",
     "wof:parent_id":85668191,
     "wof:placetype":"locality",
