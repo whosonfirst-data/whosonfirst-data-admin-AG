@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014435,
-    "geom:area_square_m":170102833.871726,
+    "geom:area_square_m":170102823.286307,
     "geom:bbox":"-61.87385,17.545559,-61.727773,17.727688",
     "geom:latitude":17.631888,
     "geom:longitude":-61.795268,
@@ -368,13 +368,15 @@
         "gn:id":3576390,
         "gp:id":2344541,
         "hasc:id":"AG.BB",
+        "iso:code":"AG-10",
         "iso:id":"AG-10",
         "qs_pg:id":1310678,
         "wd:id":"Q238752",
         "wk:page":"Barbuda"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AG",
-    "wof:geomhash":"6c826146dbeb319f8e980eda412199f9",
+    "wof:geomhash":"62ce361505db5667c9b57ab77b5f5e19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -389,7 +391,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690849656,
+    "wof:lastmodified":1695884323,
     "wof:name":"Barbuda",
     "wof:parent_id":85632529,
     "wof:placetype":"region",

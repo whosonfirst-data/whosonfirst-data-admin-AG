@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004922,
-    "geom:area_square_m":58189826.247826,
+    "geom:area_square_m":58189703.814342,
     "geom:bbox":"-61.89037,17.004828,-61.804067,17.094898",
     "geom:latitude":17.044739,
     "geom:longitude":-61.848479,
@@ -266,14 +266,16 @@
         "gn:id":3576018,
         "gp:id":2344544,
         "hasc:id":"AG.MA",
+        "iso:code":"AG-05",
         "iso:id":"AG-05",
         "qs_pg:id":1310681,
         "unlc:id":"AG-05",
         "wd:id":"Q1999872",
         "wk:page":"Saint Mary Parish, Antigua and Barbuda"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AG",
-    "wof:geomhash":"0450f122b3aecce6ef1c82fb32d6220b",
+    "wof:geomhash":"e59d3ba20bcff9059a139fea6ac85ea8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -288,7 +290,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690849657,
+    "wof:lastmodified":1695884843,
     "wof:name":"Saint Mary",
     "wof:parent_id":85632529,
     "wof:placetype":"region",

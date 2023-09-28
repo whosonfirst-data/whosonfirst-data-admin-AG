@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004305,
-    "geom:area_square_m":50901954.014217,
+    "geom:area_square_m":50902218.586706,
     "geom:bbox":"-61.815027,16.989244,-61.726226,17.064285",
     "geom:latitude":17.032579,
     "geom:longitude":-61.766957,
@@ -287,14 +287,16 @@
         "gn:id":3576017,
         "gp:id":2344545,
         "hasc:id":"AG.PA",
+        "iso:code":"AG-06",
         "iso:id":"AG-06",
         "qs_pg:id":1310682,
         "unlc:id":"AG-06",
         "wd:id":"Q386093",
         "wk:page":"Saint Paul Parish, Antigua and Barbuda"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AG",
-    "wof:geomhash":"06da48c9ae57f273e95c75c4e8fe2960",
+    "wof:geomhash":"02177ed43e5ce68f3c6beb7b9213e970",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -309,7 +311,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690849657,
+    "wof:lastmodified":1695884843,
     "wof:name":"Saint Paul",
     "wof:parent_id":85632529,
     "wof:placetype":"region",

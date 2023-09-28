@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002686,
-    "geom:area_square_m":31750225.825144,
+    "geom:area_square_m":31750052.185763,
     "geom:bbox":"-61.774209,17.060203,-61.708608,17.141506",
     "geom:latitude":17.095432,
     "geom:longitude":-61.744201,
@@ -272,14 +272,16 @@
         "gn:id":3576016,
         "gp:id":2344546,
         "hasc:id":"AG.PE",
+        "iso:code":"AG-07",
         "iso:id":"AG-07",
         "qs_pg:id":1083776,
         "unlc:id":"AG-07",
         "wd:id":"Q1952603",
         "wk:page":"Saint Peter Parish, Antigua and Barbuda"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AG",
-    "wof:geomhash":"ed3959a61c50b8f7a93dd57762aabc2a",
+    "wof:geomhash":"0b9a9b796b954f03d50cc76756e3a089",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -294,7 +296,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690849657,
+    "wof:lastmodified":1695884843,
     "wof:name":"Saint Peter",
     "wof:parent_id":85632529,
     "wof:placetype":"region",
