@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000031,
-    "geom:area_square_m":370391.448221,
+    "geom:area_square_m":370350.648221,
     "geom:bbox":"-62.34826,16.93197,-62.342918,16.940897",
     "geom:latitude":16.93605,
     "geom:longitude":-62.345277,
@@ -309,12 +309,14 @@
         "gn:id":3576037,
         "gp:id":-99,
         "hasc:id":"AG.RD",
+        "iso:code":"AG-11",
         "iso:id":"AG-11",
         "unlc:id":"AG-11",
         "wd:id":"Q457261"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AG",
-    "wof:geomhash":"f07e3987759eaeab1cfbf502ae14f73b",
+    "wof:geomhash":"d05c36405c0e5e8d51e09dd93772aa3d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -329,7 +331,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690849656,
+    "wof:lastmodified":1695884843,
     "wof:name":"Redonda",
     "wof:parent_id":85632529,
     "wof:placetype":"region",

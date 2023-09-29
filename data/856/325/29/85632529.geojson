@@ -1155,6 +1155,7 @@
         "hasc:id":"AG",
         "icao:code":"V2",
         "ioc:id":"ANT",
+        "iso:code":"AG",
         "itu:id":"ATG",
         "loc:id":"n83129820",
         "m49:code":"028",
@@ -1168,6 +1169,7 @@
         "wk:page":"Antigua and Barbuda",
         "wmo:id":"AT"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AG",
     "wof:country_alpha3":"ATG",
     "wof:geom_alt":[
@@ -1188,7 +1190,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694639518,
+    "wof:lastmodified":1695881174,
     "wof:name":"Antigua and Barbuda",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

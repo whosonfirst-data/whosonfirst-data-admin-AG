@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002367,
-    "geom:area_square_m":27966690.201169,
+    "geom:area_square_m":27966848.442615,
     "geom:bbox":"-61.805843,17.071428,-61.755841,17.164944",
     "geom:latitude":17.112454,
     "geom:longitude":-61.781843,
@@ -287,14 +287,16 @@
         "gn:id":3576024,
         "gp:id":2344542,
         "hasc:id":"AG.GE",
+        "iso:code":"AG-03",
         "iso:id":"AG-03",
         "qs_pg:id":1310679,
         "unlc:id":"AG-03",
         "wd:id":"Q1770796",
         "wk:page":"Saint George Parish, Antigua and Barbuda"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AG",
-    "wof:geomhash":"56b97be7f92b192f1625c17552101293",
+    "wof:geomhash":"334b3dd43d1d1f1c6445f94a10262905",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -309,7 +311,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690849658,
+    "wof:lastmodified":1695884843,
     "wof:name":"Saint George",
     "wof:parent_id":85632529,
     "wof:placetype":"region",

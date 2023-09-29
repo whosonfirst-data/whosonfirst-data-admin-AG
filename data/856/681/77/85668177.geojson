@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003221,
-    "geom:area_square_m":38072610.064365,
+    "geom:area_square_m":38072472.312763,
     "geom:bbox":"-61.733392,17.027818,-61.667592,17.100531",
     "geom:latitude":17.063832,
     "geom:longitude":-61.70158,
@@ -278,14 +278,16 @@
         "gn:id":3576015,
         "gp:id":2344547,
         "hasc:id":"AG.PH",
+        "iso:code":"AG-08",
         "iso:id":"AG-08",
         "qs_pg:id":898606,
         "unlc:id":"AG-08",
         "wd:id":"Q1996895",
         "wk:page":"Saint Philip Parish, Antigua and Barbuda"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AG",
-    "wof:geomhash":"9e4691a1dcbb3ef7e8ad5ac420a25f41",
+    "wof:geomhash":"7517a8db44988ab4ac0ebd2d25515756",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -300,7 +302,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690849658,
+    "wof:lastmodified":1695884843,
     "wof:name":"Saint Philip",
     "wof:parent_id":85632529,
     "wof:placetype":"region",
